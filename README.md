@@ -1,86 +1,236 @@
-# AlgoVicKe
+<div align="center">
 
-Applied artificial intelligence, engineered with the same rigor as production software.
+<img src="assets/header.svg" alt="Victor Ombeba — AI Engineer" width="100%">
 
----
+<br>
 
-This repository is the primary workspace for artificial intelligence work — from data preparation through model deployment and monitoring. Every component here is treated as part of a larger system: secured, versioned, tested, and deployed through controlled pipelines rather than ad hoc scripts.
+<sub>Nairobi, Kenya &nbsp;·&nbsp; MSc Artificial Intelligence, Kabarak University</sub>
 
-The objective is not to demonstrate isolated models. It is to build and document AI systems that hold up under real operating conditions — where data is messy, dependencies age, threats are present, and reliability is non-negotiable.
+<br><br>
 
----
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-B8973E?style=flat-square&labelColor=B8973E" alt="LinkedIn"></a>
+<a href="mailto:ombebavictor22@gmail.com"><img src="https://img.shields.io/badge/Email-B8973E?style=flat-square&labelColor=B8973E" alt="Email"></a>
+<a href="https://github.com/YOUR-SECOND-ACCOUNT"><img src="https://img.shields.io/badge/GitHub%20·%20Second%20Account-B8973E?style=flat-square&labelColor=B8973E" alt="Second GitHub account"></a>
 
-## Scope
+<br>
 
-**Data Engineering**
-ETL and ELT pipelines, ingestion, transformation, data quality validation, and lineage.
+<img src="assets/divider.svg" width="100%" alt="">
 
-**Feature Engineering**
-Feature extraction, selection, transformation, encoding, and reproducible feature stores.
+</div>
 
-**Machine Learning**
-Supervised and unsupervised learning, model selection, evaluation, and reproducibility.
+<br>
 
-**Deep Learning**
-Neural architectures, training pipelines, regularization, and optimization.
+<div align="center">
 
-**Natural Language Processing**
-Text preprocessing, embeddings, sequence modeling, and language understanding.
+**AI is not a standalone discipline.**<br>
+It is built on secure systems, reliable infrastructure, and sound software engineering.<br>
+This profile documents my work across all four.
 
-**Computer Vision**
-Image preprocessing, convolutional architectures, detection, and segmentation.
+</div>
 
-**Statistical Learning**
-Probability, inference, regression, and the theoretical basis for model behavior.
+<br>
 
-**AI Lifecycle**
-Problem framing, experimentation, validation, deployment, monitoring, and retraining.
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="">
+</div>
 
----
+<br>
 
-## Engineering Discipline
+<table>
+<tr>
+<td width="50%" valign="top">
 
-AI work in this repository is held to the same standards as any other production system.
+<img src="https://img.shields.io/badge/-01%20·%20INTELLIGENCE-B8973E?style=flat-square" alt="Intelligence">
 
-**Architecture and Design**
-Modular pipelines, clear separation between data, model, and serving layers, and deliberate trade-off analysis.
+<h3>Artificial Intelligence</h3>
 
-**Security**
-Secure handling of data and credentials, dependency and supply chain review, threat modeling, adversarial awareness, and the principle of least privilege across training and inference.
+Computer Vision, Deep Learning, Natural Language Processing, Feature Engineering, Statistical Learning, and the full AI lifecycle from data to deployment.
 
-**DevOps and MLOps**
-Version control, containerization, continuous integration and delivery, reproducible environments, and infrastructure defined as code.
+<sub><code>Python</code> &nbsp; <code>MLflow</code> &nbsp; <code>Qlib</code></sub>
 
-**Testing**
-Unit, integration, and pipeline tests. Validation of data, features, and model outputs. Regression checks before promotion.
+</td>
+<td width="50%" valign="top">
 
-**Observability**
-Metric tracking, experiment logging, drift detection, and auditability of model decisions.
+<img src="https://img.shields.io/badge/-02%20·%20SECURITY-B8973E?style=flat-square" alt="Security">
 
-**Conventions**
-Industry-approved style guides, structured experiment tracking, and documentation that makes results reproducible.
+<h3>Cybersecurity</h3>
 
----
+Threat modelling, shift-left security, incident response, monitoring, and the OWASP Top 10. Secure by design, from requirements through disposal.
 
-## Guiding Principles
+<sub><code>STRIDE</code> &nbsp; <code>OWASP</code> &nbsp; <code>NIST CSF</code> &nbsp; <code>SIEM / IDS</code></sub>
 
-Reproducibility before novelty. Security as a design constraint, not an afterthought. Simplicity in architecture. Evidence over assumption. Every result traceable to the code, data, and configuration that produced it.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+<img src="https://img.shields.io/badge/-03%20·%20INFRASTRUCTURE-B8973E?style=flat-square" alt="Infrastructure">
 
-## Structure
+<h3>DevOps Engineering</h3>
 
-| Directory | Contents |
-|---|---|
-| `data/` | Ingestion, validation, and pipeline definitions |
-| `features/` | Feature engineering and transformation logic |
-| `models/` | Training, evaluation, and experiment tracking |
-| `serving/` | Inference and deployment |
-| `infra/` | Environment, container, and CI/CD configuration |
-| `docs/` | Design decisions, references, and methodology |
+Kubernetes, CI/CD, GitOps with Argo CD, Helm, Terraform, and containerization, with reliability measured through SLAs, SLIs, and SLOs.
 
----
+<sub><code>Kubernetes</code> &nbsp; <code>Argo CD</code> &nbsp; <code>Helm</code> &nbsp; <code>Terraform</code></sub>
 
-## References
+</td>
+<td width="50%" valign="top">
 
-Software Engineering Body of Knowledge (SWEBOK) · OWASP Top 10 · NIST Cybersecurity Framework · OpenSSF Best Practices
+<img src="https://img.shields.io/badge/-04%20·%20FOUNDATIONS-B8973E?style=flat-square" alt="Foundations">
+
+<h3>Software Engineering</h3>
+
+Architecture, design, version control, APIs, and documentation, guided by the Software Engineering Body of Knowledge (SWEBOK).
+
+<sub><code>PHP / Laravel</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Python</code> &nbsp; <code>Git</code></sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<img src="https://img.shields.io/badge/-SYSTEMS-B8973E?style=flat-square" alt="Systems">
+
+<h3>Linux & Networking</h3>
+
+Bash scripting, the Filesystem Hierarchy Standard, processes, permissions, and Vim. Networking from the OSI model to ACLs, firewalls, and network defense.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="">
+</div>
+
+<br>
+
+### Currently
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/-OPEN%20SOURCE%20STUDY-B8973E?style=flat-square" alt="Open source study">
+
+<h4>MLflow · AI Experiment Tracking</h4>
+
+Studying directory structure, modular architecture, and integration patterns in a large-scale AI codebase, and mapping its CI/CD workflows to understand how production-grade AI systems are maintained and scaled.
+
+<sub>May 2026 – Present</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/-OPEN%20SOURCE%20STUDY-B8973E?style=flat-square" alt="Open source study">
+
+<h4>Microsoft Qlib · Quantitative Finance</h4>
+
+Examining the AI lifecycle in a real-world quantitative finance framework, with a focus on feature engineering, model reproducibility, and performance optimization.
+
+<sub>Apr 2026 – Present</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="">
+</div>
+
+<br>
+
+### Journey
+
+<table>
+<tr>
+<td width="22%" valign="top"><sub>JAN 2026 – PRESENT</sub></td>
+<td valign="top"><b>MSc Artificial Intelligence</b><br>Kabarak University<br><sub>Feature Engineering · AI Lifecycle · Learning Paradigms · Statistical Learning</sub></td>
+</tr>
+<tr>
+<td valign="top"><sub>NOV 2025 – NOV 2026</sub></td>
+<td valign="top"><b>ICT Practitioner</b>, Industrial Attachment<br>Moi International Sports Center<br><sub>Network diagnostics · ERP configuration and access · Website maintenance and security checks</sub></td>
+</tr>
+<tr>
+<td valign="top"><sub>JUL 2023 – DEC 2025</sub></td>
+<td valign="top"><b>Back-end Engineer</b><br>Palmate Academy<br><sub>Built a role-based Laravel portal for administrators, trainers, and students: secure authentication, automated email notifications, database backups, version control, and production deployment</sub></td>
+</tr>
+<tr>
+<td valign="top"><sub>JUL 2023 – DEC 2025</sub></td>
+<td valign="top"><b>Front-End Web Development Instructor</b><br>Palmate Academy<br><sub>Taught Git, GitHub, Figma, VS Code, and Netlify; guided learners through building, deploying, and debugging real projects</sub></td>
+</tr>
+<tr>
+<td valign="top"><sub>OCT 2021 – NOV 2025</sub></td>
+<td valign="top"><b>B.Tech Information Technology</b><br>The Technical University of Kenya<br><sub>Second Class Honours, Upper Division</sub></td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="">
+</div>
+
+<br>
+
+### Credentials
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/-SECURITY-B8973E?style=flat-square" alt="Security credentials">
+
+<br>
+
+**The Linux Foundation**<br>
+<sub>Developing Secure Software (LFD121)<br>
+Understanding the OWASP Top 10 (SKF100)<br>
+Cybersecurity Essentials (LFC108)</sub>
+
+**Google**<br>
+<sub>Google Cybersecurity Professional Certificate</sub>
+
+**Cisco Networking Academy**<br>
+<sub>Introduction to Cybersecurity<br>
+Network Defense<br>
+Cyber Threat Management<br>
+Endpoint Security</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/-INFRASTRUCTURE-B8973E?style=flat-square" alt="Infrastructure credentials">
+
+<br>
+
+**The Linux Foundation**<br>
+<sub>Introduction to Kubernetes (LFS158)<br>
+Introduction to Linux (LFS101)</sub>
+
+**Cisco Networking Academy**<br>
+<sub>Networking Basics<br>
+Networking Devices and Initial Configuration</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<br>
+
+<sub>Building understanding one layer at a time, and always deepening my expertise in artificial intelligence.</sub>
+
+<br><br>
+
+<a href="mailto:ombebavictor22@gmail.com"><sub><b>ombebavictor22@gmail.com</b></sub></a>
+
+</div>
