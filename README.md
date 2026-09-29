@@ -2,7 +2,7 @@
 
 <br>
 
-# VICTOR OMBEBA
+# ALGOVICKE
 
 <img src="https://img.shields.io/badge/-AI%20ENGINEERING%2C%20END%20TO%20END-B8973E?style=flat-square" alt="AI engineering, end to end">
 
@@ -173,7 +173,7 @@ Studying the AI lifecycle inside a real quantitative finance framework: feature 
 
 <div align="center">
 
-<sub>Nairobi, Kenya &nbsp;·&nbsp; MSc Artificial Intelligence candidate</sub>
+<sub>Nairobi, Kenya &nbsp;·&nbsp; 
 
 <br><br>
 
